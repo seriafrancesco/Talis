@@ -1,3 +1,3 @@
-"build" branch contains the .exe file to play.
+"build" folder contains the .exe file to play.
 
-"scripts" branch contains all the scripts of the game (C#/Unity/VisualStudio)
+"scripts" folder contains all the scripts of the game (C#/Unity/VisualStudio)
